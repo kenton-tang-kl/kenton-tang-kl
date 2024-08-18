@@ -4,7 +4,7 @@
 
 📧 **Email:** kentontang0202@gmail.com  
 🌍 **Location:** United Kingdom, Hong Kong  
-💼 **LinkedIn:** [Kenton Tang]([https://www.linkedin.com/in/kenton-t-5a4b48255/]) 
+💼 **LinkedIn:** [Kenton Tang](https://www.linkedin.com/in/kenton-t-5a4b48255/) 
 💻 **GitHub:** [kenton-tang-kl](https://github.com/kenton-tang-kl)
 
 ---
