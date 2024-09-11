@@ -27,7 +27,7 @@
 ## 💼 Projects
 
 ### [Robust Text Summarization on SAMSum and XSum](https://github.com/kenton-tang-kl/Exploring-the-Robustness-of-Dialogue-Based-Summarization/tree/main)
-PyTorch, Hugging Face*
+*PyTorch, Hugging Face*
 - Conducted a comprehensive project evaluating the robustness and cross-domain generalization capabilities of
 DistilBART-cnn-12-6 for abstractive text summarization, leveraging SAMSum (dialogue) and XSum (news) data
 - Implemented a fine-tuning strategy on the SAMSum dataset to enhance in-domain performance, followed by
