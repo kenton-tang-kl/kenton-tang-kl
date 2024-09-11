@@ -26,6 +26,17 @@
 
 ## 💼 Projects
 
+### [Robust Text Summarization on SAMSum and XSum](https://github.com/kenton-tang-kl/Exploring-the-Robustness-of-Dialogue-Based-Summarization/tree/main)
+PyTorch, Hugging Face*
+- Conducted a comprehensive project evaluating the robustness and cross-domain generalization capabilities of
+DistilBART-cnn-12-6 for abstractive text summarization, leveraging SAMSum (dialogue) and XSum (news) data
+- Implemented a fine-tuning strategy on the SAMSum dataset to enhance in-domain performance, followed by
+out-of-domain evaluation on the XSum dataset, using metrics such as ROUGE to assess performance
+- Applied advanced training techniques such as learning rate scheduling, weight decay adjustments, and early
+stopping to optimize the training process, ensuring effective fine-tuning and minimizing the risk of overfitting
+- Achieved robust performance in dialogue summarization, with the distilled model attaining a ROUGE-1 score
+of 39.89, which aligns with the benchmark performance of the bart-large models, which score around 40.891
+
 ### [Facebook Clone](https://github.com/kenton-tang-kl/facebook-clone)
 *React.js, Express.js, MongoDB*  
 - Architected a full-stack social media platform using the MERN stack.
